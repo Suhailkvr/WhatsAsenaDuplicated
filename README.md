@@ -119,8 +119,8 @@ the user is responsible.
 `Soon as Possible...`
 
 ### Simple Method 
-
-[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
+Suhailkvr
+[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it//WhatsAsena-QR)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?Suhailkvr=https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
 
