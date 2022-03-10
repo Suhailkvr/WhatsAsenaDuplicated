@@ -119,12 +119,12 @@ the user is responsible.
 `Soon as Possible...`
 
 ### Simple Method 
-Suhailkvr
+
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it//WhatsAsena-QR)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?=https://github/WhatsAsenaDuplicated)
 
-> [WhatsAsena Wiki (Full Guide)](https://github.com/Kavanoorsuhail/WhatsAsenaDuplicated/wiki) 
+> [WhatsAsena Wiki (Full Guide)](https://github.com/Suhailkvr/WhatsAsenaDuplicated/wiki) 
 
 ### The Hard Method (Not Recommend)
 ```js
